@@ -1,6 +1,8 @@
 # piano
 An OpenGL application written in C++, simulates the internal movements of a piano upon key presses.
 
+<b>NOTE: executable will run best in OpenGL 4.x environments, 3.3+ also possible but not guaranteed.</b>
+
 <h1>Parts</h1>
 There are 8 parts to the model:
 <ol>
